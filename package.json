@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index mongodb+srv://lucaslapa14:lucaslapa@cluster0.0v7kcfm.mongodb.net/tarefasDB?retryWrites=true&w=majority&appName=Cluster0",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
